@@ -20,7 +20,7 @@ There is a solution in the file called `possible_solution.rb`.
     ruby possible_solution.rb
     ```
 - Before it will work, you need to create two **environment variables** in your GitHub settings.
-    - [Read how to create environment variables here.](https://learn.firstdraft.com/lessons/52)
+    - [Read how to create environment variables here.](https://learn.firstdraft.com/lessons/52-storing-credentials-securely)
     - You need to create env vars called `GMAPS_KEY` and `PIRATE_WEATHER_KEY`. You'll find the values to assign in the assignment in Canvas.
     - _Don't forget to restart your Codespace after the variables have been saved._
 - Then, try running `possible_solution.rb` and enter some rainy locations — [you should be able to find some using this live radar](https://www.rainviewer.com/weather-radar-map-live.html).
@@ -76,13 +76,13 @@ https://maps.googleapis.com/maps/api/geocode/json?address=Merchandise%20Mart%20C
 
 ## Useful methods
 
-Most of working with APIs boils down to working with [`Array`s](https://learn.firstdraft.com/lessons/73) and [`Hash`es](https://learn.firstdraft.com/lessons/77).
+Most of working with APIs boils down to working with [`Array`s](https://learn.firstdraft.com/lessons/73-ruby-intro-array) and [`Hash`es](https://learn.firstdraft.com/lessons/77-ruby-intro-hash).
 
 You will likely also need to use:
 
-- [`if` statements](https://learn.firstdraft.com/lessons/74) 
-- [loops](https://learn.firstdraft.com/lessons/75)
-- [Array#each](https://learn.firstdraft.com/lessons/76)
+- [`if` statements](https://learn.firstdraft.com/lessons/74-ruby-intro-conditionals) 
+- [loops](https://learn.firstdraft.com/lessons/75-ruby-intro-loops)
+- [Array#each](https://learn.firstdraft.com/lessons/76-ruby-intro-each)
 
 Most useful programs do.
 
