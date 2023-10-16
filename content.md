@@ -1,8 +1,11 @@
 # Umbrella
 
-[Here is a video for this lesson](https://share.descript.com/view/7C8WxEg694l). You should not rely entirely on the video. PLEASE READ the below lesson as you are going through the steps, since there is much more detail in the text than in the video.
-
 In this project, we'll write a Ruby program that uses the Google Maps API and Pirate Weather API to tell the user whether or not they should carry an umbrella with them when they leave home.
+
+<div class="bg-blue-100 py-1 px-5" markdown="1">
+
+[Here is a video for this lesson](https://share.descript.com/view/7C8WxEg694l). You should not rely entirely on the video. Read the below lesson as you are going through the steps, since there is much more detail in the text than in the video.
+</div>
 
 ## Set up codespace
 
@@ -143,3 +146,5 @@ Hours from now vs Precipitation probability
  
 You might want to take an umbrella!
 ```
+
+---
