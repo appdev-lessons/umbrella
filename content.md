@@ -13,6 +13,21 @@ Since this project is not graded, you can [visit this link to fork the repositor
 
 Once forked, set up a Codespace.
 
+## Install the gems
+
+Before you begin, be sure to install the necessary gems that you will `require` in your Ruby script. At the bash prompt run:
+
+```
+gem install http
+```
+
+With just that gem, you will be able start your Umbrella script with:
+
+```ruby
+require "http"
+require "json"
+```
+
 ## Solution
 
 There is a solution in the file called `possible_solution.rb`.
